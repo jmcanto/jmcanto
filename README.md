@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola a todos👋
+Intentaré ir subidendo código de cosas más antiguas que tengo por ahí desperdigadas, de ASP, ASP.NET y PHP, quizás también algo de SQL Server o quizás algún documento de lo poco que puedo aportar de administración de sistemas.<br>
+🔭 Trabajo por ahora con Dynamics AX 2013 R3.<br>
+🌱 Por ciertas necesidades estoy intentando aprender SAP ERP / ABAP.<br>
+💬 Se me puede preguntar sobre: ASP, ASP.NET, PHP or Dynamics AX 2013 y quizás algo de PowerShell relacionado con AX o no.<br>
+📫 Se me puede contactar a través de: <br>
+  <a href="https://es.linkedin.com/in/josemariacantoortiz">Linkedin</a><br>
+  <a rel="me" href="https://mastodon.social/@jmcantoortiz">Mastodon</a>
 
 <!--
 **jmcanto/jmcanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
